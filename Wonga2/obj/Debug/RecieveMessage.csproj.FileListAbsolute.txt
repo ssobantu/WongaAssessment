@@ -1,0 +1,10 @@
+C:\Assessments Tasks\Wonga\Wonga1\Wonga2\bin\Debug\Microsoft.Diagnostics.Tracing.EventSource.dll
+C:\Assessments Tasks\Wonga\Wonga1\Wonga2\bin\Debug\RabbitMQ.Client.dll
+C:\Assessments Tasks\Wonga\Wonga1\Wonga2\bin\Debug\Microsoft.Diagnostics.Tracing.EventSource.xml
+C:\Assessments Tasks\Wonga\Wonga1\Wonga2\bin\Debug\RabbitMQ.Client.xml
+C:\Assessments Tasks\Wonga\Wonga1\Wonga2\bin\Debug\RecieveMessage.exe.config
+C:\Assessments Tasks\Wonga\Wonga1\Wonga2\bin\Debug\RecieveMessage.exe
+C:\Assessments Tasks\Wonga\Wonga1\Wonga2\bin\Debug\RecieveMessage.pdb
+C:\Assessments Tasks\Wonga\Wonga1\Wonga2\obj\Debug\RecieveMessage.exe
+C:\Assessments Tasks\Wonga\Wonga1\Wonga2\obj\Debug\RecieveMessage.pdb
+C:\Assessments Tasks\Wonga\Wonga1\Wonga2\obj\Debug\RecieveMessage.csprojResolveAssemblyReference.cache

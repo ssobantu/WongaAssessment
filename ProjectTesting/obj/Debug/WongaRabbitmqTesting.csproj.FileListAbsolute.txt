@@ -1,0 +1,15 @@
+C:\Assessments Tasks\Wonga\Wonga1\ProjectTesting\bin\Debug\WongaRabbitmqTesting.dll
+C:\Assessments Tasks\Wonga\Wonga1\ProjectTesting\bin\Debug\WongaRabbitmqTesting.pdb
+C:\Assessments Tasks\Wonga\Wonga1\ProjectTesting\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Assessments Tasks\Wonga\Wonga1\ProjectTesting\bin\Debug\RecieveMessage.exe
+C:\Assessments Tasks\Wonga\Wonga1\ProjectTesting\bin\Debug\SendMessage.exe
+C:\Assessments Tasks\Wonga\Wonga1\ProjectTesting\bin\Debug\RabbitMQ.Client.dll
+C:\Assessments Tasks\Wonga\Wonga1\ProjectTesting\bin\Debug\Microsoft.Diagnostics.Tracing.EventSource.dll
+C:\Assessments Tasks\Wonga\Wonga1\ProjectTesting\bin\Debug\SendMessage.pdb
+C:\Assessments Tasks\Wonga\Wonga1\ProjectTesting\bin\Debug\RecieveMessage.pdb
+C:\Assessments Tasks\Wonga\Wonga1\ProjectTesting\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+C:\Assessments Tasks\Wonga\Wonga1\ProjectTesting\bin\Debug\RabbitMQ.Client.xml
+C:\Assessments Tasks\Wonga\Wonga1\ProjectTesting\bin\Debug\Microsoft.Diagnostics.Tracing.EventSource.xml
+C:\Assessments Tasks\Wonga\Wonga1\ProjectTesting\obj\Debug\WongaRabbitmqTesting.csprojResolveAssemblyReference.cache
+C:\Assessments Tasks\Wonga\Wonga1\ProjectTesting\obj\Debug\WongaRabbitmqTesting.dll
+C:\Assessments Tasks\Wonga\Wonga1\ProjectTesting\obj\Debug\WongaRabbitmqTesting.pdb
